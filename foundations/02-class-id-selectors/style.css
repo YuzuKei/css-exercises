@@ -1,0 +1,14 @@
+p {
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+}
+#First {
+    color: blue;
+    font-size: 24px;
+}
+
+#Second {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
