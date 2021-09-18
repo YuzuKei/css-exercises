@@ -31,6 +31,6 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
-  margin: 0 auto;
+  margin: auto;
   display: block;
 }
